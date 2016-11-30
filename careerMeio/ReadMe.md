@@ -72,6 +72,9 @@ Use this section to document all helper functions. These functions should be ver
 
 ## Change Log
  I hate the styling and will continue to update it
+ Want to add "about" modal that explains app
+ Want to make real login/sign up
+
 
 ## Issues and Resolutions
  Use this section to list of all issues encountered and their resolution
@@ -85,5 +88,6 @@ Use this section to document all helper functions. These functions should be ver
 	**Handlebars**
 		had difficulty setting template up properly and getting it to work
 		became confusing when trying to style
-
+	Login
+		doesn't work, just for show
 
