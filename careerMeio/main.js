@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    
     var assessmentId = '8b31b590-5a9c-4df8-9765-b2c798e06398';
     Traitify.setPublicKey("399c11fc4bb447b9d67d175d88");
     Traitify.setHost("https://api-sandbox.traitify.com");
